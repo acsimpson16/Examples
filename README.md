@@ -4,16 +4,6 @@ A collection of small projects and code snippets exploring different programming
 
 This repository serves as a place to experiment, learn, and store standalone examples.
 
-## Contents
-
-Each folder contains an independent project or example.
-
-Examples may include:
-
-* Language experiments
-* Small utilities
-* Algorithm implementations
-* Concept demonstrations
 
 ## Getting Started
 
